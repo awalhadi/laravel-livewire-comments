@@ -1,5 +1,7 @@
 
 
+<label for="">upload image preview</label>
+
 <form wire:submit.prevent="storeComments" enctype="multipart/form-data">
 
     <div class="form-group">
